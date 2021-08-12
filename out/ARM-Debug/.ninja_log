@@ -1,0 +1,16 @@
+# ninja log v5
+16	117	6504578766959840	CMakeFiles/SDCard_HighLevelApp.dir/littlefs/lfs_util.c.obj	ca39978d0797d43e
+13	122	6504578766999825	CMakeFiles/SDCard_HighLevelApp.dir/eventloop_timer_utilities.c.obj	6fed5646288df85e
+0	152	6504578767329813	CMakeFiles/SDCard_HighLevelApp.dir/main.c.obj	b3f21cba37d80170
+19	409	6504578769899795	CMakeFiles/SDCard_HighLevelApp.dir/littlefs/lfs.c.obj	ca81a329d84d2aec
+411	566	6504578771429795	SDCard_HighLevelApp.out	b52eb52d1ec9b8af
+567	649	6504578772319804	approotSDCard_HighLevelApp/bin/app	e041f89464e4b42f
+650	1158	6504578777299794	SDCard_HighLevelApp.imagepackage	249ad88c1e92d523
+0	21	0	clean	9358286bbe59239f
+18	116	6504580608682947	CMakeFiles/SDCard_HighLevelApp.dir/littlefs/lfs_util.c.obj	ca39978d0797d43e
+30	121	6504580608762935	CMakeFiles/SDCard_HighLevelApp.dir/eventloop_timer_utilities.c.obj	6fed5646288df85e
+1	153	6504580609092947	CMakeFiles/SDCard_HighLevelApp.dir/main.c.obj	b3f21cba37d80170
+23	393	6504580611488261	CMakeFiles/SDCard_HighLevelApp.dir/littlefs/lfs.c.obj	ca81a329d84d2aec
+394	517	6504580612688279	SDCard_HighLevelApp.out	b52eb52d1ec9b8af
+517	597	6504580613538259	approotSDCard_HighLevelApp/bin/app	e041f89464e4b42f
+598	1026	6504580617718282	SDCard_HighLevelApp.imagepackage	249ad88c1e92d523
